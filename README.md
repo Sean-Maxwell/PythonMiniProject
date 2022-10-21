@@ -1,4 +1,18 @@
 # PythonMiniProject
+Python Mini Project
+1.	A degree of freedom in functionality. X
+2.	Use iteration and conditionals to create an ongoing program. X 
+3.	Capable of executing a different output dependent on user input. X
+4.	Create a program that continues until the user exits the program. X
+5.	User should be able to choose from several options and each should cause the program to execute a different task. X
+6.	The final option should exit the program. X
+7.	These tasks can be whatever you like .i.e. print something to the terminal, making calculations. 
+8.	Python Visual studio code X
+9.	Push to GitHub X
+10.	Create a flowchart (draw.io, export and download as a png) X
+11.	ReadMe document (describe what you did) X 
+
+
 
 The thought behind this project was to ensure I had good functionality i.e. the menu I created.
 
